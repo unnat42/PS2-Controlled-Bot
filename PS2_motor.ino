@@ -125,21 +125,21 @@ void loop() {
 }
 
 void Forward(){
-  
+  //enter the digitalWrite function as per your connection
 }
 
 void Left(){
-  
+  //enter the digitalWrite function as per your connection
 }
 
 void Right(){
-  
+  //enter the digitalWrite function as per your connection
 }
 
 void Reverse(){
-  
+  //enter the digitalWrite function as per your connection
 }
 
 void halt(){
-  
+  //enter the digitalWrite function as per your connection
 }
